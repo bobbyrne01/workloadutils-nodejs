@@ -36,9 +36,9 @@ awesome5@computer.com
 
 # Building
 
-cd workloadutils-nodesjs/
-npm install
-grunt
-node index.js
+    cd workloadutils-nodesjs/
+    npm install
+    grunt
+    node index.js
 
 `App listening at http://0.0.0.0:8080`
