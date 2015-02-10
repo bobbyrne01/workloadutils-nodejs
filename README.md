@@ -36,7 +36,7 @@ awesome5@computer.com
 
 # Building
 
-    cd workloadutils-nodesjs/
+    cd workloadutils-nodejs/
     npm install
     grunt
     node index.js
