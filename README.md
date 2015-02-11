@@ -1,6 +1,8 @@
 WorkloadUtils
 =============
 
+[![devDependency Status](https://david-dm.org/bobbyrne01/workloadutils-nodejs/dev-status.svg)](https://david-dm.org/bobbyrne01/workloadutils-nodejs#info=devDependencies)
+
 Web app that provides common workload utilities
 
 
